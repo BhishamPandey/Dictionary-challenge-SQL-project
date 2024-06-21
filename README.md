@@ -1,9 +1,6 @@
 # Dictionary Challenge
 
-## Introduction
-In April of 2020, during the Covid "Lockdown" a reddit member posted a question to the  [SQL subreddit](https://www.reddit.com/r/SQL/ "https://www.reddit.com/r/SQL/") titled "[What are some good resources to practice SQL? (Practice through exercises)](https://www.reddit.com/r/SQL/comments/g4ct1l/what_are_some_good_resources_to_practice_sql/ "https://www.reddit.com/r/SQL/comments/g4ct1l/what_are_some_good_resources_to_practice_sql/")".  A very active and knowledgeable [member](https://www.reddit.com/user/stiffupperleg/ "https://www.reddit.com/user/stiffupperleg/") of the subreddit posted this insightful [response](https://github.com/iweld/one_column_sql/blob/main/dictionary_challenge_post.md "Want to really learn some advanced SQL?").
 
-Check out [My Questions and Answers](https://github.com/iweld/one_column_sql/blob/main/questions_and_answers.md "My Questions and Answers").
 
 ## Problem Statement
 
@@ -36,7 +33,7 @@ Check out [My Questions and Answers](https://github.com/iweld/one_column_sql/blo
 25. Create a function that counts the number of vowels in a word for words greater than or equal to 3 letters long.
 26. Find the anagrams.
 
-Check out [My Questions and Answers](https://github.com/iweld/one_column_sql/blob/main/questions_and_answers.md "My Questions and Answers").
+
 
 ## Dataset used
 - <strong>words</strong>: A simple one column table with english words.
